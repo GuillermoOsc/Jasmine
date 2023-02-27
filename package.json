@@ -1,0 +1,20 @@
+{
+  "name": "jasmine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jasmine",
+    "testing",
+    "unit",
+    "tests"
+  ],
+  "author": "Guillermo Osc",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^4.5.0"
+  }
+}
