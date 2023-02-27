@@ -1,3 +1,11 @@
+
+// Se crea un archivo calculator.js que contendrá el código de una calculadora:
+
+// En este archivo, estamos definiendo un objeto calculator que tiene cuatro funciones para realizar
+// operaciones matemáticas básicas. La función divide también verifica si el segundo argumento es
+// cero y arroja un error si es así.
+
+
 const calculator = {
     add: (a, b) => {
       return a + b;
